@@ -1,15 +1,8 @@
 '''
-CSC 4380 Fa'23 Info Sec
-Assignment 5
-Malware C2
-
-Jason Mensah-Homiah
-UVA-Wise '24
-11/09/2023
-
+Link: https://github.com/JasonM22345/KnockC2.git
 
 Introduction:
-    In this assignment, I designed a Command and Control (C2) system to simulate malware on a Local Area Network (LAN) Virtual Machine (VM). 
+    In this Project, I designed a Command and Control (C2) system to simulate malware on a Local Area Network (LAN) Virtual Machine (VM). 
     The system consists of two components—a C2 server (server.py) deployed on a Wide Area Network (WAN) VM and a malware implant (client.py) 
     deployed on the LAN VM. The primary functionality of the C2 system involves listening for connections, implementing a port-knock 
     sequence, and executing predefined commands on the malware implant.
