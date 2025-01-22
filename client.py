@@ -1,11 +1,5 @@
 '''
-CSC 4380 Fa'23 Info Sec
-Assignment 5
-Malware C2
-
-Jason Mensah-Homiah
-UVA-Wise '24
-11/08/2023
+Link: https://github.com/JasonM22345/KnockC2.git
 
 Introduction:
     In this assignment, I designed a Command and Control (C2) system to simulate malware on a Local Area Network (LAN) Virtual Machine (VM). 
